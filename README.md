@@ -5,7 +5,7 @@ I. Introduction:
 
 The FFCS Timetable Project is a web-based application designed to help students manage their course timetable. It provides a user-friendly interface that enables students to search for, add, remove, and modify subjects. The project is developed using React, Bootstrap, and Firebase technologies.
  
-II. Working:
+II. Working: 
 
 The FFCS Timetable Project utilizes several React components such as the SearchBar, Timetable, and Slot components to provide an intuitive user experience. The project is designed to be responsive, making it suitable for use on a variety of devices. User authentication and security are ensured using Firebase Authentication, while the Firebase Realtime Database is used to store and retrieve data.
 
