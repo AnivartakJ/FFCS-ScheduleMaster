@@ -1,7 +1,7 @@
 //To facilitate the efficient and seamless execution of the project, we kindly request that you extract the compressed RAR file labeled "FFCS Course Registration."
 
 
-I. Introduction:
+I. Introduction: 
 
 The FFCS Timetable Project is a web-based application designed to help students manage their course timetable. It provides a user-friendly interface that enables students to search for, add, remove, and modify subjects. The project is developed using React, Bootstrap, and Firebase technologies.
  
